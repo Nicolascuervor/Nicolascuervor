@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas Cuervo</h1>
 <h3 align="center">Student at CUE Alexander von Humboldt🌟.</h3>
 
-<!-- Contenedor principal para las animaciones e imágenes -->
+<!-- Contenedor principal para las imágenes -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <!-- Contenedor de estadísticas -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="margin-right: 30px; width: 350px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto; margin-right: 30px;">
   </div>
   <!-- Contenedor del GIF -->
   <div>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 350px; height: auto;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
   </div>
 </div>
 
