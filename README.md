@@ -5,7 +5,7 @@
  
  <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
-
+<img src="https://camo.githubusercontent.com/8d22402e374741c47e4882c427fa363bcfc99f7301069a0aa373883b69f3aa5f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d417263686974656374732b446175676874657226636f6c6f723d3232454246372673697a653d32352663656e7465723d66616c7365266c696e65733d686579212b6974732b4b6175737461763b46756c6c2b737461636b2b7765622b646576656c6f7065722e2e2e3b446174612b536369656e63652b456e74687573696173742e2e2e3b546563682b426c6f676765722e2e2e3b4163746976652b4f70656e2b536f757263652b436f6e7472696275746f722e2e2e" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..." style="max-width: 100%;">
 
 
 ## ⚡🙋‍♂️ About Me
