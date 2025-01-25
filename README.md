@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Cuervo</h1>
 <h3 align="center">Student at CUE Alexander von Humboldt🌟.</h3>
+<p dir="auto">🌱 I’m currently learning PHP and Phyton</p>
 
 <!-- Contenedor con tabla para asegurar alineación horizontal -->
 <table align="center">
