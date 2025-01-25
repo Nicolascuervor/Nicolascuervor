@@ -5,11 +5,11 @@
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <!-- Contenedor de estadísticas -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="margin-right: 30px; width: 350px; height: auto;">
   </div>
   <!-- Contenedor del GIF -->
   <div>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="height: 200px;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 350px; height: auto;">
   </div>
 </div>
 
