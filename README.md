@@ -5,7 +5,7 @@
 <p align="center">
 
   <img src="https://camo.githubusercontent.com/3de2ac27965295bfac1ba458128151c426c3512efb40c4484814b17c262450a8/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d72426c75654269726432266c61796f75743d636f6d70616374267468656d653d6f6e656461726b" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=4&theme=tokyonight&layout=compact" style="width: 400px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=4&theme=tokyonight&layout=compact" style="width: 400px; height: auto;">
+ 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
 </p>
 
