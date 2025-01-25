@@ -3,8 +3,8 @@
 
 <!-- Contenedor para alinear las imágenes horizontalmente -->
 <p align="center">
-  
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
 </p>
 
 <!--
