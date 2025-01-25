@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nicolas Cuervo</h1>
 <h3 align="center">Student at CUE Alexander von Humboldt🌟.</h3>
 
-<!-- Contenedor con tabla para asegurar alineación horizontal -->
-<table align="center">
+<!-- Contenedor con tabla para alinear las imágenes horizontalmente sin bordes -->
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Columna de estadísticas -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto; border: none;">
     </td>
     <!-- Columna del GIF -->
-    <td>
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
+    <td style="border: none;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto; border: none;">
     </td>
   </tr>
 </table>
