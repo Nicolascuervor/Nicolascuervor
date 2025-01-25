@@ -5,7 +5,16 @@
 
 
   
-  "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact)
+  <div style="display: flex; justify-content: center; align-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="margin-right: 20px;">
+  </div>
+  <div>
+    <img src="URL_DE_TU_IMAGEN" alt="Programming illustration" style="height: 200px;">
+  </div>
+</div>
+
 
 
 
