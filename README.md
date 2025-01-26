@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Nicolas Cuervo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">, I'm Nicolas Cuervo</h1>
 <h3 align="center">Student at CUE Alexander von Humboldt🌟.</h3>
 
 <!-- Contenedor con tabla para asegurar alineación horizontal -->
