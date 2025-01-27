@@ -1,11 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, I'm Nicolas Cuervo</h1>
 <h3 align="center">Student at CUE Alexander von Humboldt🌟.</h3>
 
-<!-- From Uiverse.io by omar-alghaish --> 
-<div class="card">
-  <div class="card-info"><p>Hover</p></div>
-</div>
-
 
 
 <!-- Contenedor con tabla para asegurar alineación horizontal -->
@@ -17,7 +12,7 @@
     </td>
     <!-- Columna del GIF -->
     <td>
-      <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
     </td>
   </tr>
 </table>
