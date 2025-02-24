@@ -8,7 +8,6 @@
   <tr>
     <!-- Columna de estadísticas -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto;">
     </td>
     <!-- Columna del GIF -->
     <td>
