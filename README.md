@@ -19,10 +19,7 @@
 </p>
 
   </td>
-    
-  <td>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
-  </td>
+  
     
   </tr>
 </table>
