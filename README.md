@@ -8,13 +8,22 @@
   <tr>
     <!-- Columna de estadísticas -->
     <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolascuervor&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" style="width: 400px; height: auto;">
+  
+### ⚙️ &nbsp;GitHub Analytics
 
-    </td>
-    <!-- Columna del GIF -->
-    <td>
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
-    </td>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasCuervor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasCuervor&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+  </td>
+    
+  <td>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
+  </td>
+    
   </tr>
 </table>
 
