@@ -83,12 +83,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Cita aleatoria" />
-</div>
+
 
 <div align="center">
   <p>¡Gracias por visitar mi perfil! No dudes en contactarme si quieres hablar sobre tecnología, colaborar en proyectos o simplemente conectar.</p>
   
-  ![Visitantes](https://visitcount.itsvg.in/api?id=NicolasCuervor&icon=1&color=4)
 </div>
