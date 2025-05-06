@@ -64,10 +64,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasCuervor&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCuervor&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="170" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCuervor&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" />
